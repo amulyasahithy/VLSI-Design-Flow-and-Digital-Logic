@@ -29,7 +29,7 @@ The objective of this task is to understand the fundamentals of VLSI, digital lo
 
 ## Software Used
 
-- Circuitverse
+- CircuitVerse
 - GitHub
 - Microsoft Word
 
